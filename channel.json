@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Channel 1",
+    "image": "https://example.com/channel1.jpg",
+    "url": "https://example.com/channel1"
+  },
+  {
+    "name": "Channel 2",
+    "image": "https://example.com/channel2.jpg",
+    "url": "https://example.com/channel2"
+  },
+  {
+    "name": "Channel 3",
+    "image": "https://example.com/channel3.jpg",
+    "url": "https://example.com/channel3"
+  }
+]
